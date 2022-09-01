@@ -3,7 +3,6 @@ package com.alam.customer.services;
 import com.alam.amqp.RabbitMQMessageProducer;
 import com.alam.clients.fraud.FraudClient;
 import com.alam.clients.fraud.entity.FraudCheckResponse;
-import com.alam.clients.notification.NotificationClient;
 import com.alam.clients.notification.entity.NotificationRequest;
 import com.alam.customer.dto.CustomerRegistrationRequest;
 import com.alam.customer.entity.Customer;
